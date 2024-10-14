@@ -4,5 +4,4 @@ public class BaseCode {
     private String name;
     private String password;
 
-    
 }
